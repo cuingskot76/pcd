@@ -1,0 +1,9 @@
+Z:\2103040060__afrzl__pcd\pcd 1\pcd 1\bin\Debug\pcd 1.exe.config
+Z:\2103040060__afrzl__pcd\pcd 1\pcd 1\obj\Debug\pcd 1.csprojResolveAssemblyReference.cache
+Z:\2103040060__afrzl__pcd\pcd 1\pcd 1\obj\Debug\pcd_1.Form1.resources
+Z:\2103040060__afrzl__pcd\pcd 1\pcd 1\obj\Debug\pcd_1.Properties.Resources.resources
+Z:\2103040060__afrzl__pcd\pcd 1\pcd 1\obj\Debug\pcd 1.csproj.GenerateResource.Cache
+Z:\2103040060__afrzl__pcd\pcd 1\pcd 1\bin\Debug\pcd 1.exe
+Z:\2103040060__afrzl__pcd\pcd 1\pcd 1\bin\Debug\pcd 1.pdb
+Z:\2103040060__afrzl__pcd\pcd 1\pcd 1\obj\Debug\pcd 1.exe
+Z:\2103040060__afrzl__pcd\pcd 1\pcd 1\obj\Debug\pcd 1.pdb
